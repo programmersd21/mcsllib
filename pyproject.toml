@@ -13,9 +13,9 @@ dependencies = ["PyQt6", "psutil"]
 requires-python = ">=3.6"
 
 [project.urls]
-Homepage = "https://github.com/programmersd/mcsllib"
-Repository = "https://github.com/programmersd/mcsllib"
-Issues = "https://github.com/programmersd/mcsllib/issues"
+Homepage = "https://github.com/programmersd21/mcsllib"
+Repository = "https://github.com/programmersd21/mcsllib"
+Issues = "https://github.com/programmersd21/mcsllib/issues"
 
 [tool.setuptools]
 py-modules = ["mcsllib"]
